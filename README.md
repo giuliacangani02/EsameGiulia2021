@@ -11,4 +11,19 @@ Lo studente progetti anche il sistema di prenotazione dell’accesso dei truck p
 Il SW di gestione deve tenere traccia degli appuntamenti con data e ora, dei dati riguardanti il container (dimensioni, categoria, codice ISO 6346 ed informazioni relative), della merce trasportata (tipo, peso, ecc), dei dati riguardanti l’autista (nome, cognome, ecc) e del TIR (modello, targa, ecc.), della nave da cui deve essere scaricato il container (nome, capacità in numero di container), dell’operatore che ha gestito lo scarico (con nome, cognome, matricola, etc.) e delle informazioni della durata dell’appuntamento ed eventuali problemi riscontrati. 
 Il SW deve gestire anche il carico/scarico della nave memorizzando la rotta e il viaggio, indicando se è in arrivo o in partenza e il nome del porto di provenienza/destinazione, con le date e l’ora di arrivo/partenza e memorizzando il numero di container da scaricare/caricare e il nome del capitano della nave in quel viaggio.  
 Le stacking area sono 10 e hanno una capacità di 1000 container ciascuno, per cui la prenotazione dell’attracco è subordinata alla previsione di un numero sufficiente di posti liberi. La prenotazione riserva banchina e stacking area. I container vengono automaticamente accatastati uno sopra l’altro nel primo posto libero. 
+# TO DO
+Il candidato analizzi la realtà di riferimento e, fatte le opportune ipotesi aggiuntive, individui una soluzione che a suo motivato giudizio sia la più idonea a sviluppare i seguenti punti:
+- [x]   il dimensionamento del progetto, con numero di utenti stimato e altre quantità significative
+- [x]   un modello grafico che rappresenti il sistema, ne ponga in evidenza i vari componenti e le loro interconnessioni, motivando le scelte effettuate
+- [x]   una descrizione, anche utilizzando uno schema grafico, con le funzionalità tecnologiche che dovranno possedere i dispositivi terminali utente e quelli aziendali dislocati nei punti strategici dei locali
+- [x]	l’individuazione dei protocolli di comunicazione da adottare per garantire la sicurezza da attacchi informatici e la resilienza a guasti e malfunzionamenti delle applicazioni e le relative tecnologie
+- [x]	la definizione del database del sistema, sotto forma di entità relazione e di schema logico 
+- [x]	il progetto dell’interfaccia grafica, sotto forma di rappresentazione grafica
+- [x]	l’implementazione di una parte significativa dell'interfaccia grafica dell’applicazione
+- [x]	l’implementazione del database e dell’applicazione su una macchina locale, on-premises o in cloud
+- [x]	una stima dei tempi per la realizzazione del progetto, evidenziando la correlazione fra le attività
+- [x]	Sviluppi in linguaggio SQL delle query che consentano di ottenere le seguenti informazioni:
+    - [x]	il numero dei posti attualmente liberi in una certa stacking area
+    - [x]	il	nome del camionista prenotato per il 5 agosto 2021 con le informazioni che riguardano TIR, carico, nave e viaggio
+- [x]	un “executive summary” del progetto redatto in lingua inglese, che presenti il progetto in un’ottica di business. 
 
