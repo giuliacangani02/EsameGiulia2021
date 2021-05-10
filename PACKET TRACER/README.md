@@ -15,11 +15,11 @@
 |**Subnet:**| 255.0.0.0 | 
 
 
-### Switch Clienti
-|  | _**Switch Clienti**_ | 50 Dispositivi |  |
+### Pc reception
+|  | _**Pc reception**_ | n Dispositivi |  |
 |:-- | :-: | :-: | :-: |
-|**Rete:**| 192.168.2.0 | **/26** | 255.255.255.192|
+|**Rete:**| 192.168.2.2 | **/28** | 255.255.255.192|
 |**Gateway:**| 192.168.2.1 |
-|**Range:**| 192.168.2.2 | 192.168.2.62 | MAX: 62 host|
-|**Broadcast**| 192.168.2.63 |
+|**Range:**| da | a | MAX: ?|
+|**Broadcast**| ? |
 
