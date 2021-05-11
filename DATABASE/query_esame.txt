@@ -1,14 +1,15 @@
 Nave(Id_nave,nome_comandante,nome_armatore,porto_provenienza,porto_destinazione,Id_banchina)
-Lista_appuntamento_nave(Id_listapp_nave,nome_arrivo_nave,ora_arrivo_nave,data_arrivo_nave,Id_operatore,Id_banchina)
+Lista_appuntamento_nave(Id_listapp_nave,nome_arrivo_nave,ora_arrivo_nave,data_arrivo_nave,Id_operatore)
 Banchina(Id_banchina,n_banchina,carico_container,scarico_container,Id_operatore)
 Operatore(Id_operatore,nome,cognome,matricola)
 Container(Id_container,categoria,codice_iso_6344,info_generali,peso_totale,posizione,Id_nave,Id_tir)
-Merce(Id_merce,tipo_merce,peso_merce,categoria_merce)
-Tir(Id_tir,dimenzione,modello,targa)
-Richiesta_tir_lista(Id_richiesta_Container,data_ritiroContainer,ora_ritiroContainer,luogo,Id_camionista)
+Merce(Id_merce,tipo_merce,peso_merce,categoria_merce,Id_container)
+Tir(Id_tir,dimensione,modello,targa)
+Richiesta_tir_lista(Id_richiesta_Container,data_ritiroContainer,ora_ritiroContainer,luogo,Id_camionista,Id_tir)
 Carrello(Id_interfacciaCarrello,n_carrello,n_banchina)
-StackingArea(Id_StackingArea,n_posti,posti_disponibili,Id_container)
+StackingArea(Id_StackingArea,n_posti,posti_disponibili,Id_container,Id_interfacciaCarrello)
 Camionista(Id_camionista,nome,cognome,p_parcheggioassegnato)
+
 
 
 1)il numero dei posti attualmente liberi in una certa stacking area
