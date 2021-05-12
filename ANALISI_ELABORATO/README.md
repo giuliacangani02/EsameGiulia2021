@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/72736319/117984820-735dce00-b338-11eb-9faf-50c10e1faaef.png)
 
 #prima analisi 
 I giorni successivi all’uscita dell’elaborato, ho preso informazioni su come funziona il trasporto dei container nei porti ed in particolare in quella di Civitavecchia.
@@ -24,5 +25,11 @@ L’idea di questo progetto mi piace e semplifica molto lo “stoccaggio” dei 
 per il prelievo o l’inserimento dei container nelle pile di stoccaggio. Infatti, questo sistema (di cui però non conosco i costi implementativi) 
 prevede la movimentazione 24 ore su 24 di bobine metalliche che pesano fino a 50 tonnellate, ciascuna in scaffalature alte fino a 50 metri. 
 Tutto ciò permette il 100% di accessibilità al container senza dover spostare gli altri sulla stessa pila. 
+
 Quindi il sistema permette un’ottimizzazione sia dello spazio necessario per lo stoccaggio dei container sia del tempo di carico/scarico.
+La figura successiva da un’idea di come funziona questo innovativo sistema:
+![image](https://user-images.githubusercontent.com/72736319/117985372-ed8e5280-b338-11eb-8ae1-02c76f8b9505.png)
+Basandomi su questo sistema, ho progettato le stacking area del mio elaborato con quattro file di container ognuna altra 10 e lunga 25,
+quindi 250 container a fila per un totale di 1.000 a stacking area come richiesto. La capacità complessiva delle 10 aree sarà quindi di 10.000 container. 
+La movimentazione all’interno di ogni singola area sarà garantita attraverso l’uso di due gru a ponte per ogni corridoio. 
 
