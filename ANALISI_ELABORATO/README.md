@@ -1,4 +1,4 @@
-      ![image](https://user-images.githubusercontent.com/72736319/117984820-735dce00-b338-11eb-9faf-50c10e1faaef.png)
+ ![image](https://user-images.githubusercontent.com/72736319/117984820-735dce00-b338-11eb-9faf-50c10e1faaef.png)
 
 # prima analisi elaborato
 I giorni successivi all’uscita dell’elaborato, ho preso informazioni su come funziona il trasporto dei container nei porti ed in particolare in quella di Civitavecchia.
