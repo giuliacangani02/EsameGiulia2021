@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T09:14:41.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8_tsF3n25z78aPAkElWu" version="14.6.12" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-14T14:48:36.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="U1CD1LDsmwYTYUBbY8BD" version="14.6.13" type="github" pages="4">
   <diagram id="c3rzqSjMyz1cT-s9Slfi" name="REGISTER">
-    <mxGraphModel dx="626" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ql8g9sliwzq7bfOpSxAg-0" />
         <mxCell id="ql8g9sliwzq7bfOpSxAg-1" parent="ql8g9sliwzq7bfOpSxAg-0" />
@@ -28,16 +28,16 @@
         <mxCell id="p5JReWSLZa9jr2SMIVMD-0" value="INDIRIZZO:" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" parent="ql8g9sliwzq7bfOpSxAg-6" vertex="1">
           <mxGeometry y="67.5" width="160" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="cOpeS435FLkVXXsFxOQ--2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="ql8g9sliwzq7bfOpSxAg-1">
+        <mxCell id="cOpeS435FLkVXXsFxOQ--2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
           <mxGeometry x="90" y="240" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cOpeS435FLkVXXsFxOQ--3" value="PASSWORD :" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="cOpeS435FLkVXXsFxOQ--2">
+        <mxCell id="cOpeS435FLkVXXsFxOQ--3" value="PASSWORD :" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" parent="cOpeS435FLkVXXsFxOQ--2" vertex="1">
           <mxGeometry width="160" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="cOpeS435FLkVXXsFxOQ--4" value="CONFERMA PASSORD:" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="cOpeS435FLkVXXsFxOQ--2">
+        <mxCell id="cOpeS435FLkVXXsFxOQ--4" value="CONFERMA PASSORD:" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" parent="cOpeS435FLkVXXsFxOQ--2" vertex="1">
           <mxGeometry y="22.5" width="160" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="cOpeS435FLkVXXsFxOQ--5" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="cOpeS435FLkVXXsFxOQ--2">
+        <mxCell id="cOpeS435FLkVXXsFxOQ--5" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" parent="cOpeS435FLkVXXsFxOQ--2" vertex="1">
           <mxGeometry y="45" width="160" height="22.5" as="geometry" />
         </mxCell>
       </root>
