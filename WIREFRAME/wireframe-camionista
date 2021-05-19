@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T18:46:16.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4NOQlGhbr1kNxObSUd-Y" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-19T18:55:58.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="IB8PBu4maJ3om_lkJU4d" version="14.6.13" type="github" pages="4">
   <diagram id="c3rzqSjMyz1cT-s9Slfi" name="REGISTER">
     <mxGraphModel dx="1609" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT9MG5TNZhT75w50v5mj-26" value="Username" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
+        <mxCell id="cT9MG5TNZhT75w50v5mj-26" value="Enter Username" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
           <mxGeometry width="180" height="30" relative="1" as="geometry">
             <mxPoint x="10" y="50" as="offset" />
           </mxGeometry>
@@ -76,7 +76,7 @@
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT9MG5TNZhT75w50v5mj-28" value="Password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
+        <mxCell id="cT9MG5TNZhT75w50v5mj-28" value="Enter Password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
           <mxGeometry width="180" height="30" relative="1" as="geometry">
             <mxPoint x="10" y="130" as="offset" />
           </mxGeometry>
