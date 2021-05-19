@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T08:41:59.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qCoqcDv6Py6YVjczUXQV" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-19T16:07:19.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JQLM9AchwSpYBz6eWVTT" version="14.6.13" type="github" pages="4">
   <diagram id="c3rzqSjMyz1cT-s9Slfi" name="REGISTER">
-    <mxGraphModel dx="1609" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ql8g9sliwzq7bfOpSxAg-0" />
         <mxCell id="ql8g9sliwzq7bfOpSxAg-1" parent="ql8g9sliwzq7bfOpSxAg-0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="700.01" y="270" width="90" height="15" as="geometry" />
         </mxCell>
         <mxCell id="cT9MG5TNZhT75w50v5mj-24" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
-          <mxGeometry x="60" y="65" width="200" height="355" as="geometry" />
+          <mxGeometry x="60" y="62.5" width="200" height="355" as="geometry" />
         </mxCell>
         <mxCell id="cT9MG5TNZhT75w50v5mj-25" value="Username" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
           <mxGeometry width="220" height="40" relative="1" as="geometry">
@@ -96,18 +96,18 @@
             <mxPoint y="260" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT9MG5TNZhT75w50v5mj-32" value="Non sei registrato?&amp;nbsp;&lt;br&gt;&lt;br&gt;Hai dimenticato la password?" style="html=1;fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
+        <mxCell id="cT9MG5TNZhT75w50v5mj-32" value="Hai gia un account?&amp;nbsp;&lt;br&gt;&lt;br&gt;Hai dimenticato la password?" style="html=1;fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
           <mxGeometry width="220" height="60" relative="1" as="geometry">
             <mxPoint x="-10" y="275" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Registrati" link="https://www.draw.io" id="ZUheQ088ZbMXXOKktXyA-0">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="cT9MG5TNZhT75w50v5mj-24">
+        <UserObject label="Login" link="https://www.draw.io" id="ZUheQ088ZbMXXOKktXyA-0">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
             <mxGeometry x="130" y="265" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Clicca qui" link="https://www.draw.io" id="ZUheQ088ZbMXXOKktXyA-1">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="cT9MG5TNZhT75w50v5mj-24">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="cT9MG5TNZhT75w50v5mj-24" vertex="1">
             <mxGeometry x="130" y="315" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -391,15 +391,15 @@
           <mxGeometry x="-181.11" y="176.67" width="182.22" height="108.33" as="geometry" />
         </mxCell>
         <mxCell id="6ihYQyieqe9ularP_cX2-129" value="Clicca qui per loggarti" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#ffcccc;strokeColor=#36393d;mainText=;subText=;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
-          <mxGeometry x="-165" y="330" width="150" height="20" as="geometry" />
+          <mxGeometry x="-165" y="340" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6ihYQyieqe9ularP_cX2-130" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" parent="6ihYQyieqe9ularP_cX2-129" vertex="1">
           <mxGeometry y="3.2" width="150" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="ZUheQ088ZbMXXOKktXyA-3" value="conferma carico" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="ql8g9sliwzq7bfOpSxAg-1">
+        <mxCell id="ZUheQ088ZbMXXOKktXyA-3" value="conferma carico" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
           <mxGeometry x="690.01" y="320" width="115.39" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZUheQ088ZbMXXOKktXyA-4" value="conferma scarico" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="ql8g9sliwzq7bfOpSxAg-1">
+        <mxCell id="ZUheQ088ZbMXXOKktXyA-4" value="conferma scarico" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
           <mxGeometry x="669.9999999999999" y="780" width="115.39" height="30" as="geometry" />
         </mxCell>
       </root>
