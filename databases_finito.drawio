@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T14:40:11.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="P-75eANsiM8fxtHL3F_0" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T14:41:25.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="z1x4mrE9opkLsvXzYf2A" version="14.6.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1870" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,12 +417,14 @@
         <mxCell id="Wq18mz23MPEGw6SeNV3w-82" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="Wq18mz23MPEGw6SeNV3w-80" vertex="1">
           <mxGeometry x="40" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b6M-dJKYadeL4DBE-8os-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wq18mz23MPEGw6SeNV3w-99" edge="1">
+        <mxCell id="b6M-dJKYadeL4DBE-8os-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wq18mz23MPEGw6SeNV3w-99" edge="1" target="Wq18mz23MPEGw6SeNV3w-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="260" />
-              <mxPoint x="540" y="260" />
+              <mxPoint x="470" y="260" />
+              <mxPoint x="470" y="290" />
+              <mxPoint x="485" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -453,7 +455,7 @@
         <mxCell id="Wq18mz23MPEGw6SeNV3w-107" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="Wq18mz23MPEGw6SeNV3w-106" vertex="1">
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wq18mz23MPEGw6SeNV3w-108" value="posti_disponibili" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="Wq18mz23MPEGw6SeNV3w-106" vertex="1">
+        <mxCell id="Wq18mz23MPEGw6SeNV3w-108" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="Wq18mz23MPEGw6SeNV3w-106" vertex="1">
           <mxGeometry x="40" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wq18mz23MPEGw6SeNV3w-109" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Wq18mz23MPEGw6SeNV3w-99" vertex="1">
