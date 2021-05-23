@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T19:38:56.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tkkkfPjz1QT5ZgtAwaZV" version="14.7.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-23T19:44:16.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tyIdHeaoBek20u3mtAOu" version="14.7.0" type="github" pages="4">
   <diagram id="c3rzqSjMyz1cT-s9Slfi" name="REGISTER">
     <mxGraphModel dx="1870" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,14 +416,14 @@
         <mxCell id="cT9MG5TNZhT75w50v5mj-38" value="&lt;b&gt;Inserisci operazione da compiere:&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
           <mxGeometry x="337.13" y="220.83999999999997" width="205.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5JYj2keFHCjuoUvImW8j-3" value="carico container" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;strokeWidth=2;labelBackgroundColor=none;direction=west;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
-          <mxGeometry x="344.88" y="255" width="185" height="30" as="geometry" />
+        <mxCell id="5rLrQIwton12nK8HC17f-9" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-weight: 400&quot;&gt;carico container&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#eeeeee;whiteSpace=wrap;" vertex="1" parent="ql8g9sliwzq7bfOpSxAg-1">
+          <mxGeometry x="345" y="255" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5JYj2keFHCjuoUvImW8j-4" value="scarico container" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;labelBackgroundColor=none;direction=west;fontColor=#333333;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
-          <mxGeometry x="347.5" y="300" width="185" height="30" as="geometry" />
+        <mxCell id="5rLrQIwton12nK8HC17f-10" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-weight: 400&quot;&gt;I miei appuntamenti&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#eeeeee;whiteSpace=wrap;" vertex="1" parent="ql8g9sliwzq7bfOpSxAg-1">
+          <mxGeometry x="345" y="345" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6ihYQyieqe9ularP_cX2-10" value="I miei ordini&amp;nbsp;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;strokeWidth=2;labelBackgroundColor=none;direction=west;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
-          <mxGeometry x="344.88" y="350" width="185" height="30" as="geometry" />
+        <mxCell id="5rLrQIwton12nK8HC17f-11" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-weight: 400&quot;&gt;scarico container&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#eeeeee;whiteSpace=wrap;" vertex="1" parent="ql8g9sliwzq7bfOpSxAg-1">
+          <mxGeometry x="345.01" y="300" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
