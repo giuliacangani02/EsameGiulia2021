@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T13:00:10.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="lPYWYCw9Kn4NHUAugROX" version="14.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-29T13:02:11.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Yf2VO2A1d_Q06QY8kvg-" version="14.7.3" type="github" pages="4">
   <diagram id="c3rzqSjMyz1cT-s9Slfi" name="REGISTER">
     <mxGraphModel dx="1870" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
             <mxPoint y="420" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_qht9F050hsSwVd03ro-0" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Riepilogo ordine carico container:&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="6ihYQyieqe9ularP_cX2-2">
+        <mxCell id="q_qht9F050hsSwVd03ro-0" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Riepilogo ordine scarico container:&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="6ihYQyieqe9ularP_cX2-2">
           <mxGeometry x="-13.799855516055004" y="24.370000000000005" width="247.59985551605493" height="18.34" as="geometry" />
         </mxCell>
         <mxCell id="6ihYQyieqe9ularP_cX2-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#6F0000;fillColor=#a20025;fontColor=#ffffff;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
@@ -297,7 +297,7 @@
         <mxCell id="5JYj2keFHCjuoUvImW8j-35" value="&lt;font size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 8px&quot;&gt;INSERISCI CODICE ISO:&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
           <mxGeometry x="633.63" y="252.39999999999998" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5JYj2keFHCjuoUvImW8j-36" value="********" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;align=left;buttonText=;fontSize=8" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
+        <mxCell id="5JYj2keFHCjuoUvImW8j-36" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;align=left;buttonText=;fontSize=8" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
           <mxGeometry x="648.26" y="292.4" width="90" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ZUheQ088ZbMXXOKktXyA-4" value="conferma scarico" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#eeeeee;strokeColor=#36393d;align=center;fontSize=14;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
