@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T09:39:13.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="zbMp1RXocgEAhhSkqC_W" version="14.7.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-29T09:42:09.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="cRwzn80WBNPCEXQvY0_C" version="14.7.2" type="github" pages="4">
   <diagram id="c3rzqSjMyz1cT-s9Slfi" name="REGISTER">
     <mxGraphModel dx="1609" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wXTq6iqld52PMsFoO0La-38" value="&lt;b&gt;&lt;br&gt;Stacking area:765&lt;br&gt;&lt;div&gt;&lt;b&gt;Fila:&amp;nbsp; 1&lt;/b&gt;&lt;/div&gt;Posizione:&amp;nbsp; posizione 1&lt;br&gt;Data prenotazione: 2021-01-12&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5JYj2keFHCjuoUvImW8j-20">
-          <mxGeometry x="17.49016178399651" y="86.87" width="157.41145605596859" height="133.13" as="geometry" />
+          <mxGeometry x="0.0001617839965106782" y="14.370000000000005" width="157.41145605596859" height="133.13" as="geometry" />
         </mxCell>
         <mxCell id="6ihYQyieqe9ularP_cX2-2" value="Riepilogo ordine scarico container:" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;labelBackgroundColor=none;fillColor=#7fd3db;" parent="ql8g9sliwzq7bfOpSxAg-1" vertex="1">
           <mxGeometry x="930" y="525.63" width="220" height="348.75" as="geometry" />
